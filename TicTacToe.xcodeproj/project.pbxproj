@@ -16,6 +16,7 @@
 		61284AC3293612A2003D3589 /* TicTacToeTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 61284AC2293612A2003D3589 /* TicTacToeTests.swift */; };
 		61284ACD293612A2003D3589 /* TicTacToeUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 61284ACC293612A2003D3589 /* TicTacToeUITests.swift */; };
 		61284ACF293612A2003D3589 /* TicTacToeUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 61284ACE293612A2003D3589 /* TicTacToeUITestsLaunchTests.swift */; };
+		61284ADE293616CA003D3589 /* Model.swift in Sources */ = {isa = PBXBuildFile; fileRef = 61284ADD293616CA003D3589 /* Model.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		61284AC8293612A2003D3589 /* TicTacToeUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TicTacToeUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		61284ACC293612A2003D3589 /* TicTacToeUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TicTacToeUITests.swift; sourceTree = "<group>"; };
 		61284ACE293612A2003D3589 /* TicTacToeUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TicTacToeUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		61284ADD293616CA003D3589 /* Model.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Model.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				61284AAB293612A1003D3589 /* AppDelegate.swift */,
 				61284AAD293612A1003D3589 /* SceneDelegate.swift */,
 				61284AAF293612A1003D3589 /* ViewController.swift */,
+				61284ADD293616CA003D3589 /* Model.swift */,
 				61284AB1293612A1003D3589 /* Main.storyboard */,
 				61284AB4293612A2003D3589 /* Assets.xcassets */,
 				61284AB6293612A2003D3589 /* LaunchScreen.storyboard */,
@@ -261,6 +264,7 @@
 				61284AB0293612A1003D3589 /* ViewController.swift in Sources */,
 				61284AAC293612A1003D3589 /* AppDelegate.swift in Sources */,
 				61284AAE293612A1003D3589 /* SceneDelegate.swift in Sources */,
+				61284ADE293616CA003D3589 /* Model.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
